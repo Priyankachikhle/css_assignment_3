@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    margin: 50px 150px 30px 150px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+.nav li {
+    float: right;
+  }
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 16px ;
+    text-decoration: none;
+  }
+.card_1{
+    width: 100%;
+    height:70vh;
+    
+    display: flex;
+   
+}
+.section_1{
+    width: 72%;
+    height:70vh;
+    margin: 0px 15px 0px 0px;
+    padding: 10px;
+}
+.section_1 img{
+    width: 100%;
+    height:40vh;
+}
+.section_2{
+    width: 28%;
+    height:67vh;
+    color: rgb(206, 201, 201);
+    background-color: black;
+    padding: 30px 30px 30px 30px;
+    margin: 10px 10px 0px 0px;
+   line-height: 30px; 
+}
+.section_2 h1{
+    color: orange;
+    line-height: 50px;
+    letter-spacing: 2px;
+    font-family: 'Lato', sans-serif;
+  }
+  .section_2 h4{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .section_2 p{
+    color: rgb(206, 201, 201);
+    letter-spacing: 1px;
+    line-height:20px;
+    padding-bottom: 30px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    
+  }
+.block_1{
+    width: 100%;
+    display: flex;
+}
+.a{
+    width: 50%;
+    height: 35vh;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 20px 0px 0px 0px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.b p{
+    padding: 20px;
+    line-height: 20px;
+}
+.b{
+    width: 50%;
+    height: 35vh;
+    color: rgb(151, 145, 145);
+    font-weight: bold;
+    font-family: 'Karla', sans-serif;
+}
+button{
+    display: block;
+    width: 45%;
+    padding: 15px;
+    margin: 20px;
+    color: white;
+    background-color:rgb(236, 78, 78);
+    font-weight: bold;
+    letter-spacing: 3px;
+    border: none;
+}
+  .card_2{
+    width: 100%;
+    height: 50vh;
+    margin: 20px 10px 10px 10px;
+    
+  }
+  .card_2 li {
+    float: left;
+    padding: 20px;
+    line-height: 20px;
+  }
+  .card_21 h2, h3, p{
+    line-height: 20px;
+  }
+  .card_21 h2{
+    line-height: 50px;
+    color: silver;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+  }
+  .card_21 h3{
+    line-height: 50px;
+    font-family: 'Karla', sans-serif;
+    color: black;
+    font-weight: bold;
+  }
+  .card_21 p{
+    font-family: 'Karla', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(154, 149, 149);
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  
